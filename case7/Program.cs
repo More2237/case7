@@ -22,13 +22,13 @@ class Program
             case 2: 
                 resultkg = vazn* 0.000001;
                 break;
-            case 3: // Грамм
+            case 3: 
                 resultkg = vazn * 0.001;
                 break;
-            case 4: // Тонна
+            case 4: 
                 resultkg = vazn * 1000;
                 break;
-            case 5: // Центнер
+            case 5: 
                resultkg = vazn* 100;
                 break;
             default:
